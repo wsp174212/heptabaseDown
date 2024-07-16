@@ -1,0 +1,29 @@
+Folder PATH listing for volume Windows
+Volume serial number is 843B-050B
+C:.
+|   app.py
+|   config.py
+|   project_structure.txt
+|   README.md
+|   Readme.txt
+|   requirements.txt
+|   
++---bots
+|       echo_bot.py
+|       __init__.py
+|       
+\---deploymentTemplates
+    +---deployUseExistResourceGroup
+    |       parameters-for-template-AzureBot-with-rg.json
+    |       parameters-for-template-BotApp-with-rg.json
+    |       readme.md
+    |       template-AzureBot-with-rg.json
+    |       template-BotApp-with-rg.json
+    |       
+    \---deployWithNewResourceGroup
+            parameters-for-template-AzureBot-new-rg.json
+            parameters-for-template-BotApp-new-rg.json
+            readme.md
+            template-AzureBot-new-rg.json
+            template-BotApp-new-rg.json
+            
